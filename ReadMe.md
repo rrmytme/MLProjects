@@ -19,6 +19,10 @@ To run this project, you need to have Python 3.x installed along with the follow
 - seaborn
 - jupyter
 
+# Neural networks dependencies
+- opencv-python
+- tensorflow 
+
 You can install the required packages using:
 ```bash
 pip install -r requirements.txt

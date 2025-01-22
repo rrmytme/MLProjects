@@ -2,4 +2,6 @@ pandas
 seaborn
 matplotlib
 Scikit-learn
-numpygg
+numpy
+opencv-python
+tensorflow
